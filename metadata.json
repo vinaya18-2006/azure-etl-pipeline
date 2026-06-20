@@ -1,0 +1,6 @@
+{
+  "name": "Azure ETL Pipeline Studio",
+  "description": "A comprehensive data engineering dashboard for simulating and managing ETL (Extract, Transform, Load) pipelines with Azure integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
